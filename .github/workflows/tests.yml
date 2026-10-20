@@ -1,0 +1,20 @@
+name: tests
+on:
+  push:
+  pull_request:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      LEADLENS_DEMO_MODE: "false"
+      LEADLENS_DB: data/ci.db
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python -m pip install --upgrade pip
+      - run: pip install -r requirements-dev.txt
+      - run: python -m py_compile app.py auth_store.py leadlens.py leadlens_plus.py ml_router.py
+      - run: pytest -q
+      - run: python scripts/evaluate.py

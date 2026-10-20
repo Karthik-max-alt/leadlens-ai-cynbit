@@ -1,0 +1,281 @@
+{
+  "rules_smoke_test": {
+    "dataset": "six handcrafted synthetic inquiries",
+    "correct": 6,
+    "total": 6,
+    "accuracy": 1.0,
+    "cases": [
+      {
+        "id": "SYN-001",
+        "expected": "Reputation management (Revio)",
+        "predicted": "Reputation management (Revio)",
+        "match": true
+      },
+      {
+        "id": "SYN-002",
+        "expected": "Software development & cloud",
+        "predicted": "Software development & cloud",
+        "match": true
+      },
+      {
+        "id": "SYN-003",
+        "expected": "Software development & cloud",
+        "predicted": "Software development & cloud",
+        "match": true
+      },
+      {
+        "id": "SYN-004",
+        "expected": "Unclear / discovery needed",
+        "predicted": "Unclear / discovery needed",
+        "match": true
+      },
+      {
+        "id": "SYN-005",
+        "expected": "Career technology (Cynbit Studio)",
+        "predicted": "Career technology (Cynbit Studio)",
+        "match": true
+      },
+      {
+        "id": "SYN-006",
+        "expected": "Property technology (TenantEase)",
+        "predicted": "Property technology (TenantEase)",
+        "match": true
+      }
+    ]
+  },
+  "ml_vs_rules_holdout": {
+    "training_examples": 88,
+    "holdout_examples": 28,
+    "ml_accuracy": 0.964,
+    "ml_macro_f1": 0.964,
+    "rules_accuracy": 0.5,
+    "rules_macro_f1": 0.514,
+    "cases": [
+      {
+        "id": "HOLD-01",
+        "expected": "AI automation",
+        "ml_prediction": "AI automation",
+        "ml_match": true,
+        "rule_prediction": "Unclear / discovery needed",
+        "rule_match": false
+      },
+      {
+        "id": "HOLD-02",
+        "expected": "AI automation",
+        "ml_prediction": "AI automation",
+        "ml_match": true,
+        "rule_prediction": "Unclear / discovery needed",
+        "rule_match": false
+      },
+      {
+        "id": "HOLD-03",
+        "expected": "AI automation",
+        "ml_prediction": "AI automation",
+        "ml_match": true,
+        "rule_prediction": "Unclear / discovery needed",
+        "rule_match": false
+      },
+      {
+        "id": "HOLD-04",
+        "expected": "Software development & cloud",
+        "ml_prediction": "Software development & cloud",
+        "ml_match": true,
+        "rule_prediction": "Software development & cloud",
+        "rule_match": true
+      },
+      {
+        "id": "HOLD-05",
+        "expected": "Software development & cloud",
+        "ml_prediction": "Software development & cloud",
+        "ml_match": true,
+        "rule_prediction": "Software development & cloud",
+        "rule_match": true
+      },
+      {
+        "id": "HOLD-06",
+        "expected": "Software development & cloud",
+        "ml_prediction": "Software development & cloud",
+        "ml_match": true,
+        "rule_prediction": "Software development & cloud",
+        "rule_match": true
+      },
+      {
+        "id": "HOLD-07",
+        "expected": "Digital marketing & growth",
+        "ml_prediction": "Digital marketing & growth",
+        "ml_match": true,
+        "rule_prediction": "Digital marketing & growth",
+        "rule_match": true
+      },
+      {
+        "id": "HOLD-08",
+        "expected": "Digital marketing & growth",
+        "ml_prediction": "Digital marketing & growth",
+        "ml_match": true,
+        "rule_prediction": "Digital marketing & growth",
+        "rule_match": true
+      },
+      {
+        "id": "HOLD-09",
+        "expected": "Digital marketing & growth",
+        "ml_prediction": "Digital marketing & growth",
+        "ml_match": true,
+        "rule_prediction": "Digital marketing & growth",
+        "rule_match": true
+      },
+      {
+        "id": "HOLD-10",
+        "expected": "Reputation management (Revio)",
+        "ml_prediction": "Reputation management (Revio)",
+        "ml_match": true,
+        "rule_prediction": "Unclear / discovery needed",
+        "rule_match": false
+      },
+      {
+        "id": "HOLD-11",
+        "expected": "Reputation management (Revio)",
+        "ml_prediction": "Reputation management (Revio)",
+        "ml_match": true,
+        "rule_prediction": "Unclear / discovery needed",
+        "rule_match": false
+      },
+      {
+        "id": "HOLD-12",
+        "expected": "Reputation management (Revio)",
+        "ml_prediction": "Reputation management (Revio)",
+        "ml_match": true,
+        "rule_prediction": "Reputation management (Revio)",
+        "rule_match": true
+      },
+      {
+        "id": "HOLD-13",
+        "expected": "Career technology (Cynbit Studio)",
+        "ml_prediction": "Career technology (Cynbit Studio)",
+        "ml_match": true,
+        "rule_prediction": "Unclear / discovery needed",
+        "rule_match": false
+      },
+      {
+        "id": "HOLD-14",
+        "expected": "Career technology (Cynbit Studio)",
+        "ml_prediction": "Career technology (Cynbit Studio)",
+        "ml_match": true,
+        "rule_prediction": "Career technology (Cynbit Studio)",
+        "rule_match": true
+      },
+      {
+        "id": "HOLD-15",
+        "expected": "Career technology (Cynbit Studio)",
+        "ml_prediction": "Career technology (Cynbit Studio)",
+        "ml_match": true,
+        "rule_prediction": "Unclear / discovery needed",
+        "rule_match": false
+      },
+      {
+        "id": "HOLD-16",
+        "expected": "Property technology (TenantEase)",
+        "ml_prediction": "Property technology (TenantEase)",
+        "ml_match": true,
+        "rule_prediction": "Property technology (TenantEase)",
+        "rule_match": true
+      },
+      {
+        "id": "HOLD-17",
+        "expected": "Property technology (TenantEase)",
+        "ml_prediction": "Property technology (TenantEase)",
+        "ml_match": true,
+        "rule_prediction": "Property technology (TenantEase)",
+        "rule_match": true
+      },
+      {
+        "id": "HOLD-18",
+        "expected": "Property technology (TenantEase)",
+        "ml_prediction": "Property technology (TenantEase)",
+        "ml_match": true,
+        "rule_prediction": "Reputation management (Revio)",
+        "rule_match": false
+      },
+      {
+        "id": "HOLD-19",
+        "expected": "Unclear / discovery needed",
+        "ml_prediction": "Unclear / discovery needed",
+        "ml_match": true,
+        "rule_prediction": "Unclear / discovery needed",
+        "rule_match": true
+      },
+      {
+        "id": "HOLD-20",
+        "expected": "Unclear / discovery needed",
+        "ml_prediction": "Unclear / discovery needed",
+        "ml_match": true,
+        "rule_prediction": "Unclear / discovery needed",
+        "rule_match": true
+      },
+      {
+        "id": "HOLD-21",
+        "expected": "Unclear / discovery needed",
+        "ml_prediction": "Unclear / discovery needed",
+        "ml_match": true,
+        "rule_prediction": "Software development & cloud",
+        "rule_match": false
+      },
+      {
+        "id": "HOLD-23",
+        "expected": "Unclear / discovery needed",
+        "ml_prediction": "Digital marketing & growth",
+        "ml_match": false,
+        "rule_prediction": "Reputation management (Revio)",
+        "rule_match": false
+      },
+      {
+        "id": "HOLD-29",
+        "expected": "AI automation",
+        "ml_prediction": "AI automation",
+        "ml_match": true,
+        "rule_prediction": "Unclear / discovery needed",
+        "rule_match": false
+      },
+      {
+        "id": "HOLD-30",
+        "expected": "Software development & cloud",
+        "ml_prediction": "Software development & cloud",
+        "ml_match": true,
+        "rule_prediction": "Unclear / discovery needed",
+        "rule_match": false
+      },
+      {
+        "id": "HOLD-31",
+        "expected": "Digital marketing & growth",
+        "ml_prediction": "Digital marketing & growth",
+        "ml_match": true,
+        "rule_prediction": "Unclear / discovery needed",
+        "rule_match": false
+      },
+      {
+        "id": "HOLD-32",
+        "expected": "Reputation management (Revio)",
+        "ml_prediction": "Reputation management (Revio)",
+        "ml_match": true,
+        "rule_prediction": "Reputation management (Revio)",
+        "rule_match": true
+      },
+      {
+        "id": "HOLD-33",
+        "expected": "Career technology (Cynbit Studio)",
+        "ml_prediction": "Career technology (Cynbit Studio)",
+        "ml_match": true,
+        "rule_prediction": "Unclear / discovery needed",
+        "rule_match": false
+      },
+      {
+        "id": "HOLD-34",
+        "expected": "Property technology (TenantEase)",
+        "ml_prediction": "Property technology (TenantEase)",
+        "ml_match": true,
+        "rule_prediction": "Property technology (TenantEase)",
+        "rule_match": true
+      }
+    ]
+  },
+  "caveat": "All datasets are handcrafted synthetic examples. Results demonstrate repeatable prototype behavior only and do not establish real-world accuracy, calibrated confidence, or generalization."
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "HOLD-01",
+    "inquiry": "An assistant should read support tickets, label each request, and route work to a human queue.",
+    "category": "AI automation"
+  },
+  {
+    "id": "HOLD-02",
+    "inquiry": "Need language-model search over internal operational manuals and procedures.",
+    "category": "AI automation"
+  },
+  {
+    "id": "HOLD-03",
+    "inquiry": "Automatically extract purchase order values and send exceptions for approval.",
+    "category": "AI automation"
+  },
+  {
+    "id": "HOLD-04",
+    "inquiry": "Create a secure customer web portal and integrate our billing API.",
+    "category": "Software development & cloud"
+  },
+  {
+    "id": "HOLD-05",
+    "inquiry": "Our product needs cloud migration, a deployment pipeline, and monitoring.",
+    "category": "Software development & cloud"
+  },
+  {
+    "id": "HOLD-06",
+    "inquiry": "Build a cross-platform mobile application for our service engineers.",
+    "category": "Software development & cloud"
+  },
+  {
+    "id": "HOLD-07",
+    "inquiry": "Improve search visibility and paid campaign performance for a new product.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "id": "HOLD-08",
+    "inquiry": "Set up attribution reporting for ads, landing pages, and email nurture.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "id": "HOLD-09",
+    "inquiry": "We need a performance marketing plan to increase qualified inbound leads.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "id": "HOLD-10",
+    "inquiry": "Compare branch rating trends and draft replies to low-star feedback.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "id": "HOLD-11",
+    "inquiry": "Unify hotel guest reviews, flag recurring complaints and propose responses.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "id": "HOLD-12",
+    "inquiry": "Track public customer ratings from several review sites across our franchises.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "id": "HOLD-13",
+    "inquiry": "Students should receive coding feedback and suggested next lessons from their assessment history.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "id": "HOLD-14",
+    "inquiry": "Build placement preparation with resume feedback and technical practice interviews.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "id": "HOLD-15",
+    "inquiry": "Recommend programming drills based on learners' quiz results.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "id": "HOLD-16",
+    "inquiry": "Property staff need lease expiry reminders and a tracker for repair tickets.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "id": "HOLD-17",
+    "inquiry": "Landlords want rent status, tenant records and occupancy reporting in one place.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "id": "HOLD-18",
+    "inquiry": "Residents need a portal to submit maintenance requests and review lease information.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "id": "HOLD-19",
+    "inquiry": "Need a quote for a digital product, but the goals are still being discussed.",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "id": "HOLD-20",
+    "inquiry": "Would like a call with your team to explore a possible collaboration.",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "id": "HOLD-21",
+    "inquiry": "We have not chosen the platform or defined the requirements yet.",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "id": "HOLD-23",
+    "inquiry": "Our new product may need a web portal, campaign support and customer feedback analytics; the first release is not scoped yet.",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "id": "HOLD-29",
+    "inquiry": "The team needs a conversational interface over internal policy documents and a task router.",
+    "category": "AI automation"
+  },
+  {
+    "id": "HOLD-30",
+    "inquiry": "Replace a legacy backend with modular services and a browser-based customer portal.",
+    "category": "Software development & cloud"
+  },
+  {
+    "id": "HOLD-31",
+    "inquiry": "Track conversion events and experiment with campaigns to increase paid lead acquisition.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "id": "HOLD-32",
+    "inquiry": "Our customer reviews are scattered across sites; consolidate ratings and feedback themes.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "id": "HOLD-33",
+    "inquiry": "Offer tailored interview practice and track learner readiness for graduate hiring.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "id": "HOLD-34",
+    "inquiry": "Property managers need lease renewal alerts, vacancy tracking and service requests in one portal.",
+    "category": "Property technology (TenantEase)"
+  }
+]

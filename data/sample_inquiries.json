@@ -1,0 +1,44 @@
+[
+  {
+    "id": "SYN-001",
+    "title": "Multi-location review intelligence",
+    "inquiry": "We manage 12 retail stores and receive hundreds of customer reviews every week. We need an AI solution to identify negative feedback, generate suggested responses, and give our team a centralized dashboard. We want to start within the next month and need integration with our existing review platforms.",
+    "expected_category": "Reputation management (Revio)",
+    "type": "synthetic"
+  },
+  {
+    "id": "SYN-002",
+    "title": "Website and customer portal",
+    "inquiry": "We are a small healthcare training business looking for a new website and customer portal with user login, course tracking, and an admin dashboard. We are still defining the budget and would like guidance on the best approach.",
+    "expected_category": "Software development & cloud",
+    "type": "synthetic"
+  },
+  {
+    "id": "SYN-003",
+    "title": "Cloud migration",
+    "inquiry": "Our SaaS product is running on a single virtual machine and we need help migrating to a more reliable AWS architecture. We have a target launch in six weeks and need CI/CD, monitoring, and a migration plan.",
+    "expected_category": "Software development & cloud",
+    "type": "synthetic"
+  },
+  {
+    "id": "SYN-004",
+    "title": "Vague early-stage inquiry",
+    "inquiry": "Hi, I have an idea for an app. Can someone call me and tell me how much it costs? I am not sure what features I need yet.",
+    "expected_category": "Unclear / discovery needed",
+    "type": "synthetic"
+  },
+  {
+    "id": "SYN-005",
+    "title": "Career platform enhancement",
+    "inquiry": "Our training institute wants a career platform with adaptive learning paths, coding missions, AI code evaluation, mock interviews, and learner progress tracking for students preparing for placements.",
+    "expected_category": "Career technology (Cynbit Studio)",
+    "type": "synthetic"
+  },
+  {
+    "id": "SYN-006",
+    "title": "Property operations",
+    "inquiry": "We manage a residential property portfolio and want a tenant portal, lease tracking, occupancy dashboard, rent collection and automated reminders. We need integration with our existing accounting API.",
+    "expected_category": "Property technology (TenantEase)",
+    "type": "synthetic"
+  }
+]

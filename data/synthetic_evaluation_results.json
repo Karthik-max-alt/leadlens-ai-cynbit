@@ -1,0 +1,45 @@
+{
+  "dataset": "synthetic smoke test",
+  "correct": 6,
+  "total": 6,
+  "category_accuracy": 1.0,
+  "note": "Not a representative benchmark; examples are handcrafted and small.",
+  "cases": [
+    {
+      "id": "SYN-001",
+      "expected": "Reputation management (Revio)",
+      "predicted": "Reputation management (Revio)",
+      "match": true
+    },
+    {
+      "id": "SYN-002",
+      "expected": "Software development & cloud",
+      "predicted": "Software development & cloud",
+      "match": true
+    },
+    {
+      "id": "SYN-003",
+      "expected": "Software development & cloud",
+      "predicted": "Software development & cloud",
+      "match": true
+    },
+    {
+      "id": "SYN-004",
+      "expected": "Unclear / discovery needed",
+      "predicted": "Unclear / discovery needed",
+      "match": true
+    },
+    {
+      "id": "SYN-005",
+      "expected": "Career technology (Cynbit Studio)",
+      "predicted": "Career technology (Cynbit Studio)",
+      "match": true
+    },
+    {
+      "id": "SYN-006",
+      "expected": "Property technology (TenantEase)",
+      "predicted": "Property technology (TenantEase)",
+      "match": true
+    }
+  ]
+}

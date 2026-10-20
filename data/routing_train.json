@@ -1,0 +1,354 @@
+[
+  {
+    "inquiry": "Automate invoice document processing with an LLM that extracts fields and sends uncertain cases to a reviewer.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "We need an AI chatbot to answer support questions from our approved knowledge base.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "Build an agent that classifies inbound support tickets and routes tasks to the right queue.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "Reduce manual work by automating document intake and approval workflows.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "Implement a voice agent for appointment intake and frequently asked questions.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "Use OCR and language models to extract values from purchase orders.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "Create an internal retrieval assistant for company policies and technical runbooks.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "Classify incoming emails and start a human approval workflow automatically.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "Add an LLM summarizer to our existing case-management process.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "Generate structured summaries from long customer support conversations.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "Connect workflow automation across several systems with a human checkpoint.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "Prototype a natural-language assistant that searches approved internal procedures.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "Develop a responsive website with a customer portal and secure login.",
+    "category": "Software development & cloud"
+  },
+  {
+    "inquiry": "Migrate our application from a virtual server to a reliable AWS environment.",
+    "category": "Software development & cloud"
+  },
+  {
+    "inquiry": "Build REST APIs connecting our mobile app and billing service.",
+    "category": "Software development & cloud"
+  },
+  {
+    "inquiry": "Set up CI/CD pipelines, monitoring and repeatable software deployment.",
+    "category": "Software development & cloud"
+  },
+  {
+    "inquiry": "Create a multi-tenant SaaS platform with a PostgreSQL database.",
+    "category": "Software development & cloud"
+  },
+  {
+    "inquiry": "Modernize a legacy web application and improve its architecture.",
+    "category": "Software development & cloud"
+  },
+  {
+    "inquiry": "Build a mobile application for field technicians to manage service jobs.",
+    "category": "Software development & cloud"
+  },
+  {
+    "inquiry": "Design cloud infrastructure with containers, monitoring and backups.",
+    "category": "Software development & cloud"
+  },
+  {
+    "inquiry": "Implement OAuth login and role-based access for our admin dashboard.",
+    "category": "Software development & cloud"
+  },
+  {
+    "inquiry": "Upgrade our application deployment architecture with container orchestration.",
+    "category": "Software development & cloud"
+  },
+  {
+    "inquiry": "Integrate a payment gateway into our ecommerce website.",
+    "category": "Software development & cloud"
+  },
+  {
+    "inquiry": "Build a dashboard for managing customer accounts and application permissions.",
+    "category": "Software development & cloud"
+  },
+  {
+    "inquiry": "Improve organic search rankings with a technical SEO and content strategy.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "inquiry": "Run performance marketing campaigns across social and search advertising channels.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "inquiry": "Lower paid advertising acquisition costs and optimize campaign bids.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "inquiry": "We need a lead generation funnel with landing pages and campaign analytics.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "inquiry": "Plan email nurture campaigns and marketing attribution for new prospects.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "inquiry": "Increase conversion rate across our website checkout journey.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "inquiry": "Build a content calendar and conduct search keyword research.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "inquiry": "Manage brand awareness advertisements and retargeting campaigns.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "inquiry": "Analyze campaign return on investment and traffic sources.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "inquiry": "Improve inbound growth through SEO and conversion optimization.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "inquiry": "We need a paid ads strategy for a product launch in India.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "inquiry": "Create social campaign reporting and audience segmentation for our brand.",
+    "category": "Digital marketing & growth"
+  },
+  {
+    "inquiry": "Track negative Google reviews across all our retail locations.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "inquiry": "Analyze customer sentiment in star ratings and written review feedback.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "inquiry": "Generate suggested replies to reviews but require a human to post them.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "inquiry": "Monitor online reputation and ratings for multiple stores in one dashboard.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "inquiry": "Summarize repeated complaints in customer reviews and feedback.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "inquiry": "Create a review management dashboard for franchise branches.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "inquiry": "Identify sentiment trends across public review platforms.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "inquiry": "Alert our team when customer ratings drop across branch locations.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "inquiry": "Centralize draft responses to product reviews from several websites.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "inquiry": "Measure review themes and reputation trends month over month.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "inquiry": "Help a hotel group respond consistently to guest ratings and reviews.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "inquiry": "Analyze customer feedback and suggest responses to negative reviews.",
+    "category": "Reputation management (Revio)"
+  },
+  {
+    "inquiry": "Build coding missions and skill-based learning paths for students.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "inquiry": "Create an AI code evaluator for programming assignments.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "inquiry": "Develop a resume analyzer and mock interview platform.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "inquiry": "Track learner progress through career-readiness assessments.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "inquiry": "Recommend practice problems based on a student's demonstrated skill gaps.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "inquiry": "We need a job placement preparation portal with coding quizzes.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "inquiry": "Create mock technical interviews for graduating students.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "inquiry": "Offer personalized learning paths for programming practice.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "inquiry": "Analyze coding submissions and provide structured exercise feedback.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "inquiry": "Build a platform with resume feedback and interview practice.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "inquiry": "Add a skills assessment module for campus placement preparation.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "inquiry": "Track student progress across data structures and programming topics.",
+    "category": "Career technology (Cynbit Studio)"
+  },
+  {
+    "inquiry": "Build a tenant portal with digital lease tracking.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "inquiry": "Automate rental payment reminders for property managers.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "inquiry": "Track occupancy and property records in a centralized dashboard.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "inquiry": "Handle maintenance requests submitted by residents.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "inquiry": "Manage a portfolio of rental units and lease expirations.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "inquiry": "Provide landlords with rent collection and tenant records.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "inquiry": "Add service tickets and repair status for apartment buildings.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "inquiry": "Build property management software for residential complexes.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "inquiry": "Monitor occupancy and upcoming lease renewals across properties.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "inquiry": "Connect tenant records with an existing accounting API.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "inquiry": "Residents need an app to report maintenance issues and track repairs.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "inquiry": "Centralize rent status, lease documents and owner reporting.",
+    "category": "Property technology (TenantEase)"
+  },
+  {
+    "inquiry": "I have an idea for an app and want a rough cost estimate.",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "inquiry": "Can we schedule a call to discuss a potential technology project?",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "inquiry": "We are exploring a digital solution but have not defined the requirements.",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "inquiry": "Please contact us about your services; we need some advice.",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "inquiry": "We want to modernize our business, but the first step is not clear.",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "inquiry": "Can someone explain your company services and how you might help us?",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "inquiry": "We need help with a project but have not selected a scope.",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "inquiry": "Interested in speaking with your team about possible collaboration.",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "inquiry": "We want an estimate but have not chosen a platform or features.",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "inquiry": "Could you share the types of services your team provides?",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "inquiry": "We need technical consulting; details can be discussed on a call.",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "inquiry": "Please call me to discuss whether our business idea is feasible.",
+    "category": "Unclear / discovery needed"
+  },
+  {
+    "inquiry": "Build retrieval augmented generation over internal handbooks, policy manuals and technical runbooks.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "Search company knowledge documents and answer employees using a language model with cited passages.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "Create an internal question answering assistant for standard operating procedures and manuals.",
+    "category": "AI automation"
+  },
+  {
+    "inquiry": "Use an LLM to find relevant paragraphs from our internal documentation library.",
+    "category": "AI automation"
+  }
+]
